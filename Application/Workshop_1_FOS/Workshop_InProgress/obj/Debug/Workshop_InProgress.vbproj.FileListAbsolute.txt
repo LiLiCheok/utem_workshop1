@@ -1,0 +1,88 @@
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe.config
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\bin\Debug\Workshop_InProgress.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\bin\Debug\Workshop_InProgress.xml
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\obj\Debug\Workshop_InProgress.Login_Page.resources
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\obj\Debug\Workshop_InProgress.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\obj\Debug\Workshop_InProgress.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\obj\Debug\Workshop_InProgress.exe
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\obj\Debug\Workshop_InProgress.xml
+C:\Users\user\AppData\Local\Temporary Projects\Workshop_InProgress\obj\Debug\Workshop_InProgress.pdb
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe.config
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.exe
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.xml
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.pdb
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\bin\Debug\Workshop_InProgress.pdb
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\bin\Debug\Workshop_InProgress.xml
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Login_Page.resources
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Resources.resources
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Manager_Use.resources
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Restaurant_Menu.resources
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Staff_Account.resources
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Waiter_Use.resources
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Waiter_Order.resources
+C:\Users\user\Desktop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Restaurant_Table.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe.config
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.exe
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.xml
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.pdb
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\bin\Debug\Workshop_InProgress.pdb
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\bin\Debug\Workshop_InProgress.xml
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Manager_Use.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Resources.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Login_Page.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Kitchen_Use.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Table_Info.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Order_Product.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.WaiterCashier_Use.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Customer_balance.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Order.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\obj\Debug\Workshop_InProgress.Daily_Sales_Report.resources
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\bin\Debug\itextsharp.dll
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\Desktop\Workshop\Workshop_InProgress\Workshop_InProgress\bin\Debug\itextsharp.xml
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe.config
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.exe
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.xml
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.pdb
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\Workshop_InProgress.pdb
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\Workshop_InProgress.xml
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\itextsharp.dll
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\itextsharp.pdfa.dll
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\itextsharp.xtra.dll
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\itextsharp.xml
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Daily_Sales_Report.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.WaiterCashier_Use.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Customer_balance.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Order_Product.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Kitchen_Use.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Manager_Use.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Resources.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Login_Page.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Table_Info.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Order.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.Kitchen_Display.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.KitchenLogin.resources
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe.manifest
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\Workshop_InProgress.application
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.exe.manifest
+C:\Users\user\Desktop\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.application
+H:\UTeM\year 2 sem1\Workshop 1\CD\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe.config
+H:\UTeM\year 2 sem1\Workshop 1\CD\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.exe
+H:\UTeM\year 2 sem1\Workshop 1\CD\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.xml
+H:\UTeM\year 2 sem1\Workshop 1\CD\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.pdb
+G:\UTeM\14_15 - year 2 sem 1\Workshop 1\CD\Application\Workshop_1_FOS\Workshop_InProgress\bin\Debug\Workshop_InProgress.exe.config
+G:\UTeM\14_15 - year 2 sem 1\Workshop 1\CD\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.exe
+G:\UTeM\14_15 - year 2 sem 1\Workshop 1\CD\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.xml
+G:\UTeM\14_15 - year 2 sem 1\Workshop 1\CD\Application\Workshop_1_FOS\Workshop_InProgress\obj\Debug\Workshop_InProgress.pdb

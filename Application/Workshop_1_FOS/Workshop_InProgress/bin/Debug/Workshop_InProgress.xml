@@ -1,0 +1,160 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Workshop_InProgress
+</name>
+</assembly>
+<members>
+<member name="P:Workshop_InProgress.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Workshop_InProgress.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Workshop_InProgress.My.Resources.Resources.DoneRing">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Workshop_InProgress.My.Resources.Resources.itextsharp">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Workshop_InProgress.My.Resources.Resources.itextsharp_pdfa">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Workshop_InProgress.My.Resources.Resources.itextsharp_xtra">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Workshop_InProgress.My.Resources.Resources.waiter_smile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Workshop_InProgress.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.menuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.orderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.order_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.staffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.menuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.orderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.order_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.staffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.menuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.orderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.order_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.staffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet.tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSetTableAdapters.menuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSetTableAdapters.orderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSetTableAdapters.order_detailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSetTableAdapters.staffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSetTableAdapters.tableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Workshop_InProgress.fosdatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Workshop_InProgress.fosdatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Workshop_InProgress.fosdatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Workshop_InProgress.fosdatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Workshop_InProgress.fosdatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Workshop_InProgress.fosdatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Workshop_InProgress.fosdatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Workshop_InProgress.fosdatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(Workshop_InProgress.fosdatabaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Workshop_InProgress.fosdatabaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
